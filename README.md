@@ -1,4 +1,4 @@
-# *QuickSvelte Template* 📙
+# QuickSvelte Template 📙
 ![](./banner.png)
 
 ```bash
