@@ -4,7 +4,7 @@ Svelte + Typescript + shadcn-svelte + Lucide
 
 ```bash
 # Installation:
-cd frontend-template
+cd quicksvelte
 npm i
 # Running:
 npm run dev
